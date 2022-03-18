@@ -1,5 +1,5 @@
 # BIL395_Homeworks
-There are codes and homeworks files in BIL395 course.
+There are code files and homeworks files for BIL395 course.
 
 BIL395 course is called Concepts of Programming Languages.
 
